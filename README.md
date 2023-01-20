@@ -8,11 +8,11 @@ University of Aizu, 2022
 [Wiki](https://github.com/uoanlab/shenc/wiki)
 
 # Releases
-- T.B.D. [202203XX, v1.0.0](https://github.com/uoanlab/vultest/releases/tag/v1.0.0)
+- T.B.D. [202301XX, v1.0.0](https://github.com/uoanlab/vultest/releases/tag/v1.0.0)
 
 
 # Authors & Contributors
-- Yusuke NAMIKI <xxx [at] xxx.xxx>
-- Akihito NAKAMURA <nakamura [at] u-aizu.ac.jp>
+- Yusuke Namiki
+- Akihito Nakamura <nakamura [at] u-aizu.ac.jp>
 
 
